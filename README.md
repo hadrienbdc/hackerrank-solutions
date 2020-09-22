@@ -20,10 +20,10 @@ My profile: https://www.hackerrank.com/hbaflast
 
 | Problem | Day | Python |
 |---------|:----------:|:------:|
-| [All Balanced Parentheses](https://www.codewars.com/kata/5426d7a2c2c7784365000783) | 4 | [py](All%20Balanced%20Parentheses/solution.py) |
+| [All Balanced Parentheses](https://www.codewars.com/kata/5426d7a2c2c7784365000783) | 0 | [py](All%20Balanced%20Parentheses/solution.py) |
 
 ## 30 Days of Code
 
 | Problem | Day | Python |
 |---------|:----------:|:------:|
-| [All Balanced Parentheses](https://www.codewars.com/kata/5426d7a2c2c7784365000783) | 4 | [py](All%20Balanced%20Parentheses/solution.py) |
+| [All Balanced Parentheses](https://www.codewars.com/kata/5426d7a2c2c7784365000783) | 0 | [py](All%20Balanced%20Parentheses/solution.py) |
