@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://www.hackerrank.com/">
-        <img src="https://miro.medium.com/max/5522/1*JhV105AX1GNhHhqc8ZunEg.png">
+        <img height=100 src="https://miro.medium.com/max/5522/1*JhV105AX1GNhHhqc8ZunEg.png">
     </a>
 </p>
 
