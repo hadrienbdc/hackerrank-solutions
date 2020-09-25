@@ -41,4 +41,8 @@ My profile: https://www.hackerrank.com/hbaflast
 
 | Problem | Day | Python |
 |---------|:----------:|:------:|
-| [All Balanced Parentheses](https://www.codewars.com/kata/5426d7a2c2c7784365000783) | 0 | [py](All%20Balanced%20Parentheses/solution.py) |
+| [Mean, Median, and Mode](https://www.hackerrank.com/challenges/s10-basic-statistics/problem) | 0 | [py](10%20Days%20of%20Statistics/Mean,%20Median,%20and%20Mode/solution.py) |
+| [Weighted Mean](https://www.hackerrank.com/challenges/s10-weighted-mean/problem) | 0 | [py](10%20Days%20of%20Statistics/Weighted%20Mean/solution.py) |
+| [Quartiles](https://www.hackerrank.com/challenges/s10-quartiles/problem) | 1 | [py](10%20Days%20of%20Statistics/Quartiles/solution.py) |
+| [Interquartile Range](https://www.hackerrank.com/challenges/s10-interquartile-range/problem) | 1 | [py](10%20Days%20of%20Statistics/Interquartile%20Range/solution.py) |
+| [Standard Deviation](https://www.hackerrank.com/challenges/s10-standard-deviation/problem) | 1 | [py](10%20Days%20of%20Statistics/Standard%20Deviation/solution.py) |
