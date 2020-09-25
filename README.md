@@ -32,6 +32,10 @@ My profile: https://www.hackerrank.com/hbaflast
 | [Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem) | 8 | [py](30%20Days%20of%20Code/Dictionaries%20and%20Maps/solution.py) |
 | [Recursion 3](https://www.hackerrank.com/challenges/30-recursion/problem) | 9 | [py](30%20Days%20of%20Code/Recursion%203/solution.py) |
 | [Binary%20Numbers](https://www.hackerrank.com/challenges/30-binary-numbers/problem) | 10 | [py](30%20Days%20of%20Code/Binary%20Numbers/solution.py) |
+| [2D%20Arrays](https://www.hackerrank.com/challenges/30-2d-arrays/problem) | 11 | [py](30%20Days%20of%20Code/2D%20Arrays/solution.py) |
+| [Inheritance](https://www.hackerrank.com/challenges/30-inheritance/problem) | 12 | [py](30%20Days%20of%20Code/Inheritance/solution.py) |
+| [Abstract Classes](https://www.hackerrank.com/challenges/30-abstract-classes/problem) | 13 | [py](30%20Days%20of%20Code/Abstract%20Classes/solution.py) |
+| [Scope](https://www.hackerrank.com/challenges/30-scope/problem) | 14 | [py](30%20Days%20of%20Code/Scope/solution.py) |
 
 ### 10 Days of Statistics
 
